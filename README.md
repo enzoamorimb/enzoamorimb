@@ -1,4 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 👋
+
+Meu nome é Enzo Amorim 
+
+Estou estudando no Alura
+Estou me desenvolvendo na liguagem Java Script
+Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### VocÊ entrar em contato comigo
+0000124214413sp@al.educacao.sp.gov.br
 
 <!--
 **enzoamorimb/enzoamorimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
